@@ -1,8 +1,10 @@
 # 516-Hours-Korean-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/1008
+
 
 ## Description
 Korean audio data with duration of 516 hours, recorded texts include: daily language, various interactive sentences, home commands, on-board commands, etc. Among 1,077 speakers, male and female speakers are 49% and 51%. The duration of each speaker is around half an hour.
+
+For more details, please refer to the link: https://bit.ly/3xS5NP7
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ Korean
 
 ## Application scene
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
