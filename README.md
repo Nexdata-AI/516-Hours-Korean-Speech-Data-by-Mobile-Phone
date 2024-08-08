@@ -4,7 +4,7 @@
 ## Description
 Korean audio data with duration of 516 hours, recorded texts include: daily language, various interactive sentences, home commands, on-board commands, etc. Among 1,077 speakers, male and female speakers are 49% and 51%. The duration of each speaker is around half an hour.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1008?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1008?source=Github
 
 
 ## Format
